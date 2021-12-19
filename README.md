@@ -1,15 +1,15 @@
 
   
-  <h2>🔎</h2>
+  <h2>🔎 About me</h2>
   
   <h3 align="left"> 
-  Olá sou o Brian estou aqui para espalhar minhas criações, 
+ 🙎🏽‍♂️ Olá sou o Brian estou aqui para espalhar minhas criações, 
   <br>
   é também poder observar o que nossos amigos devs estão trabalhando.
 </h3>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML</strong>  <strong>CSS</strong>  <strong>JAVASCRIPT</strong>  <strong>BOOTSTRAP</strong>  <strong>SWIFT</strong>
+📖 <strong>HTML</strong>  <strong>CSS</strong>  <strong>JAVASCRIPT</strong>  <strong>BOOTSTRAP</strong>  <strong>SWIFT</strong>
 </p>
 
 <p align="left">
@@ -17,15 +17,15 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>XCODE</strong> & <strong>VSCODE</strong>
+  💻 <strong>XCODE</strong> & <strong>VSCODE</strong>
 </p>
   
   <hr>
   
-  <div align="left">
+  <div align="center">
   <a href="https://github.com/brianail">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianail&show_icons=true&theme=Tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianail&layout=compact&langs_count=7&theme=Tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianail&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianail&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <br>
