@@ -3,9 +3,9 @@
   <h2>🔎 About me</h2>
   
   <h3 align="left"> 
- 🙎🏽‍♂️ Olá sou o Brian estou aqui para espalhar minhas criações, 
+ 🙎🏽‍♂️ Olá me chamo Brian e adoro ficar horas na frente de um pc 
   <br>
-  é também poder observar o que nossos amigos devs estão trabalhando.
+    minha linguagem preferida e Swift ⌘
 </h3>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-📚 Estudando: <strong>JAVASCRIPT</strong> & <strong>SWIFT</strong>
+📚 Estudando: <strong>SWIFT</strong> & <strong>SWIFTUI</strong>
 </p>
 
 <p align="left">
